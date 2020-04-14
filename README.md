@@ -1,7 +1,5 @@
 # Spacebar
 
-![banner](https://media.giphy.com/media/w7GklCdO76TzIJ0YEq/giphy.gif "banner")
-
 A small typing runner game located in space.
 
 This was my first major coding project, so please excuse how messy it might look!
